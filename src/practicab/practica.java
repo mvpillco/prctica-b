@@ -29,6 +29,8 @@ public class practica extends javax.swing.JFrame {
         lblmensaje1.setText("jLabel1");
 
         lblmensaje2.setText("jLabel1");
+        
+        lblmensaje3.setText();
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -102,5 +104,6 @@ public class practica extends javax.swing.JFrame {
     private javax.swing.JButton btnactivar;
     private javax.swing.JLabel lblmensaje1;
     private javax.swing.JLabel lblmensaje2;
+
     // End of variables declaration//GEN-END:variables
 }
