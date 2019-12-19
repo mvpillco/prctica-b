@@ -7,6 +7,7 @@ public class practica extends javax.swing.JFrame {
     public practica() {
         initComponents();
     }
+    //hola..
 
 
     @SuppressWarnings("unchecked")
@@ -63,7 +64,9 @@ public class practica extends javax.swing.JFrame {
     private void btnactivarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnactivarActionPerformed
         lblmensaje1.setText("hola");
         lblmensaje2.setText("como te va");
-        lblmensaje3.setText("Muy bien ......aqui aprendiendo.....");
+        System.out.println("hola....");
+        
+        //lblmensaje3.setText("Muy bien ......aqui aprendiendo.....");
     }//GEN-LAST:event_btnactivarActionPerformed
 
     /**
